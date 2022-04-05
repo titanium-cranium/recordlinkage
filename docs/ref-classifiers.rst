@@ -141,7 +141,8 @@ used for the :class:`recordlinkage.ECMClassifier` and the
 Examples
 ========
 
-Unsupervised learning with the ECM algorithm. [See example on Github.](https://github.com/J535D165/recordlinkage/examples/unsupervised_learning.py)
+Unsupervised learning with the ECM algorithm. [See example on Github.](https://github.com/J535D165/recordlinkage/blob/master/examples/unsupervised_learning_prob.py)
+
 
 
 Network
